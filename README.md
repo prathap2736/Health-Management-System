@@ -123,5 +123,4 @@ For any queries or suggestions:
 
 🌐 GitHub: https://github.com/yourusername
 
-💡 Tip for you Prathap:
-Add project screenshots in GitHub. It makes your project look 10x more professional
+
